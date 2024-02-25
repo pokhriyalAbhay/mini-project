@@ -1,0 +1,3 @@
+this is my mini project based on html ,css , javascript and i have also included gsap and locomotive js 
+GSAP is a framework-agnostic JavaScript animation library that turns developers into animation superheroes. Build high-performance animations that work in every major browser. Animate CSS, SVG, canvas, React, Vue, WebGL, colors, strings, motion paths, generic objects
+Locomotive Scroll is a JavaScript library that creates smooth scrolling effects on web pages. It enables programmers to produce visual effects where different elements on a page scroll at different rates to give the impression of depth and dimension.
